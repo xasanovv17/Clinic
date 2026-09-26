@@ -1,0 +1,8 @@
+{
+  "name": "malika-klinikasi",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "@netlify/blobs": "^7.4.1"
+  }
+}
